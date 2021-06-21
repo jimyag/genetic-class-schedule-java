@@ -1,2 +1,12 @@
-# genetic-class-schedule-java
-遗传算法排班-Java版
+此项目是基于遗传算法实现的学生值班系统。
+
+执行此项目：
+
+- 使用IDEA打开此项目
+- 构建->重新加载依赖
+- 运行
+- 打开resources中的data.txt
+- 点击 开始排课(GA)
+
+
+
